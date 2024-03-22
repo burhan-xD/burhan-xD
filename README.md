@@ -2,7 +2,7 @@
 <h4 align="center">I am working on backend programming with C# and .NET. For this, I completed the FullStack training of the Tobeto-IstanbulKodluyor program. Within the scope of the training, I took Javascript and React trainings along with C#-.NET. I want to progress in backend development. </h4>
 <h4 align="center">I graduated in Information Security. I know Python at a basic level. I have knowledge in Windows and Linux system administration (client and server), network (tcp/ip, LAN, WAN, static-dynamic routing), Office 365. I have also worked on Adobe programs Premiere Pro, After Effects and Photoshop.</h4>
 
-- Mail: **burhanozsahinoglu@gmail.com**
+- Mail: **burhanozsahinoglu@gmail.com - burhanozsahinoglu@windowslive.com**
 - Linkedin * Twitter * Stackoverflow * Quaro: <p align="left">
 <a href="https://linkedin.com/in/burhan-ozsahinoglu-86a361173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burhan-ozsahinoglu-86a361173" height="30" width="40" /></a>
 
