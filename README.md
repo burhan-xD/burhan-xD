@@ -4,7 +4,7 @@
 
 - Mail: **burhanozsahinoglu@gmail.com - burhanozsahinoglu@windowslive.com**
 - Linkedin * Twitter * Stackoverflow * Quaro: <p align="left">
-<a href="https://linkedin.com/in/burhan-ozsahinoglu-86a361173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burhan-ozsahinoglu-86a361173" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/burhan-özşahinoğlu-86a361173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burhan-ozsahinoglu-86a361173" height="30" width="40" /></a>
 
 <h3 align="left">Junior Level:</h3>
 <p align="left">
